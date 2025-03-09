@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Rami Al Fayad!<br>A software developer passionate about solving complex problems and continuously learning.<br><br>🎓 Currently Studying:<br>Software engineering at 42 Beirut.<br><br>💻 What I Do:<br>Focus on writing efficient and reliable code, with a strong interest in web development.<br><br>🌟 Interests:<br>Exploring new technologies, exchanging ideas, and pushing the boundaries of software development.
-
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Rami-Fayad)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rami-fayad-12a04926b) 
